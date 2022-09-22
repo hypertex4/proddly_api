@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c17048e9-8f3b-4bee-95cb-339571bbdfc8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/classes/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app-route.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="2228" column="3" lean-forward="true" selection-start-line="2228" selection-start-column="3" selection-end-line="2228" selection-end-column="3" />
+              <folding>
+                <element signature="n#app_db#0;n#!!top" />
+                <element signature="n#getAuthorizationHeader#0;n#!!top" />
+                <element signature="n#getDevAccessKeyHeader#0;n#!!top" />
+                <element signature="n#getBearerToken#0;n#!!top" />
+                <element signature="n#getDeveloperKey#0;n#!!top" />
+                <element signature="n#clean#0;n#!!top" />
+                <element signature="n#save_base64_image#0;n#!!top" />
+                <element signature="e#3417#3492#1#PHP" />
+                <element signature="e#3533#3933#1#PHP" />
+                <element signature="e#3980#4784#1#PHP" />
+                <element signature="e#4846#5836#1#PHP" />
+                <element signature="e#5908#6758#1#PHP" />
+                <element signature="e#6808#27400#1#PHP" />
+                <element signature="e#27453#48145#1#PHP" />
+                <element signature="e#48197#50303#1#PHP" />
+                <element signature="e#50353#52813#1#PHP" />
+                <element signature="e#52865#57904#1#PHP" />
+                <element signature="e#57953#60733#1#PHP" />
+                <element signature="e#60786#63178#1#PHP" />
+                <element signature="e#63233#78133#1#PHP" />
+                <element signature="e#78189#79844#1#PHP" />
+                <element signature="e#79895#81336#1#PHP" />
+                <element signature="e#81389#83038#1#PHP" />
+                <element signature="e#83097#84509#1#PHP" />
+                <element signature="e#84567#86651#1#PHP" />
+                <element signature="e#86714#88099#1#PHP" />
+                <element signature="e#88153#89620#1#PHP" />
+                <element signature="e#89678#91253#1#PHP" />
+                <element signature="e#91302#96067#1#PHP" />
+                <element signature="e#96117#102333#1#PHP" />
+                <element signature="e#102393#103880#1#PHP" />
+                <element signature="e#103946#105555#1#PHP" />
+                <element signature="e#105613#111028#1#PHP" />
+                <element signature="e#111079#112704#1#PHP" />
+                <element signature="e#112760#115689#1#PHP" />
+                <element signature="e#115750#117537#1#PHP" />
+                <element signature="e#117601#119291#1#PHP" />
+                <element signature="e#119337#120597#1#PHP" />
+                <element signature="e#120652#121468#1#PHP" />
+                <element signature="e#121530#126734#1#PHP" />
+                <element signature="e#126794#131738#1#PHP" />
+                <element signature="e#131804#135134#1#PHP" />
+                <element signature="e#135196#137272#1#PHP" />
+                <element signature="e#137336#144142#1#PHP" />
+                <element signature="e#144211#145769#1#PHP" />
+                <element signature="e#145849#147421#1#PHP" />
+                <element signature="e#147490#149062#1#PHP" />
+                <element signature="e#149130#150702#1#PHP" />
+                <element signature="e#144202#146437#1#PHP" />
+                <element signature="e#146498#149624#1#PHP" />
+                <element signature="e#149683#153759#1#PHP" />
+                <element signature="e#153832#155786#1#PHP" />
+                <element signature="e#155845#161715#1#PHP" />
+                <element signature="e#161774#167949#1#PHP" />
+                <element signature="e#168009#169937#1#PHP" />
+                <element signature="e#170006#171564#1#PHP" />
+                <element signature="e#171627#174868#1#PHP" />
+                <element signature="e#174941#177833#1#PHP" />
+                <element signature="e#177882#178743#1#PHP" />
+                <element signature="e#178798#182534#1#PHP" />
+                <element signature="e#182596#186383#1#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exist</find>
+      <find>edit-pr</find>
+      <find>public</find>
+      <find>uploads</find>
+      <find>if(empty(</find>
+      <find>tbl_adds_billboard</find>
+      <find>password</find>
+      <find>foreach</find>
+      <find>str_home_delivery</find>
+      <find>home_delivery</find>
+      <find>$first_name</find>
+      <find>[[FIRST_NAME]]</find>
+      <find>[[EMAIL_TO]]</find>
+      <find>url</find>
+      <find>$url</find>
+      <find>Mailjet</find>
+      <find>update-vwis-store-info</find>
+      <find>message</find>
+      <find>secret</find>
+      <find>forea</find>
+      <find>update</find>
+      <find>in ar</find>
+      <find>featured</find>
+      <find>categori</find>
+      <find>where</find>
+      <find>$_G</find>
+      <find>discount_typ</find>
+      <find>discount</find>
+      <find>fetch-di</find>
+      <find>$_GET</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>logoErrorMSG</replace>
+      <replace>0</replace>
+      <replace>msg</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/classes/class_SimpleDBClass.php" />
+        <option value="$PROJECT_DIR$/config/app-config.php" />
+        <option value="$PROJECT_DIR$/classes/ClientStore.class.php" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/views/index.php" />
+        <option value="$PROJECT_DIR$/classes/Mail.class.php" />
+        <option value="$PROJECT_DIR$/classes/composer.json" />
+        <option value="$PROJECT_DIR$/classes/composer.lock" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/sub-hook.php" />
+        <option value="$PROJECT_DIR$/app-route(Store).php" />
+        <option value="$PROJECT_DIR$/app-routeStore.php" />
+        <option value="$PROJECT_DIR$/app-routeShoppers.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/app-route-shoppers.php" />
+        <option value="$PROJECT_DIR$/app-route.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/classes/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/classes/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/classes/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/classes/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/classes/vendor/composer" />
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/classes/vendor/mailjet/mailjet-apiv3-php" />
+      <path value="$PROJECT_DIR$/classes/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/classes/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/classes/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/classes/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/classes/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/classes/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/classes/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/classes/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/classes/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/classes/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/classes/vendor/mpdf/mpdf" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/classes/vendor/myclabs/deep-copy" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proddly_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proddly_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\proddly_api" />
+      <recent name="C:\laragon\www\proddly_api\views" />
+      <recent name="C:\laragon\www\proddly_api\config" />
+      <recent name="C:\laragon\www\proddly_api\classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\proddly_api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c17048e9-8f3b-4bee-95cb-339571bbdfc8" name="Default Changelist" comment="" />
+      <created>1641808328381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641808328381</updated>
+      <workItem from="1641808329801" duration="29634000" />
+      <workItem from="1642158967112" duration="684000" />
+      <workItem from="1642209835939" duration="595000" />
+      <workItem from="1642228226402" duration="595000" />
+      <workItem from="1642341563806" duration="715000" />
+      <workItem from="1643315625237" duration="11886000" />
+      <workItem from="1643403221503" duration="1758000" />
+      <workItem from="1643729465672" duration="591000" />
+      <workItem from="1643876646228" duration="592000" />
+      <workItem from="1644010414756" duration="593000" />
+      <workItem from="1644012280684" duration="593000" />
+      <workItem from="1644014202853" duration="590000" />
+      <workItem from="1644060423474" duration="629000" />
+      <workItem from="1644092476549" duration="592000" />
+      <workItem from="1644629501489" duration="9947000" />
+      <workItem from="1644851742254" duration="591000" />
+      <workItem from="1645068855579" duration="43977000" />
+      <workItem from="1645460904222" duration="22397000" />
+      <workItem from="1646160773912" duration="611000" />
+      <workItem from="1646212170891" duration="16889000" />
+      <workItem from="1647519042846" duration="16276000" />
+      <workItem from="1647663474751" duration="656000" />
+      <workItem from="1648211087394" duration="2450000" />
+      <workItem from="1648505623455" duration="593000" />
+      <workItem from="1648730453339" duration="595000" />
+      <workItem from="1650014196984" duration="610000" />
+      <workItem from="1650499351154" duration="594000" />
+      <workItem from="1650527633254" duration="136000" />
+      <workItem from="1650876618917" duration="4520000" />
+      <workItem from="1650911776362" duration="14577000" />
+      <workItem from="1651118899551" duration="748000" />
+      <workItem from="1651168817218" duration="2756000" />
+      <workItem from="1651645540593" duration="8646000" />
+      <workItem from="1651859223527" duration="591000" />
+      <workItem from="1652102498723" duration="30442000" />
+      <workItem from="1652433032231" duration="635000" />
+      <workItem from="1652515967364" duration="592000" />
+      <workItem from="1653107925049" duration="597000" />
+      <workItem from="1653426110248" duration="15979000" />
+      <workItem from="1654114539626" duration="3481000" />
+      <workItem from="1654331737008" duration="316000" />
+      <workItem from="1654354976242" duration="21567000" />
+      <workItem from="1654587346504" duration="606000" />
+      <workItem from="1654679846087" duration="627000" />
+      <workItem from="1654757282895" duration="38660000" />
+      <workItem from="1655317823106" duration="4556000" />
+      <workItem from="1656314975293" duration="861000" />
+      <workItem from="1656759171837" duration="6248000" />
+      <workItem from="1656919079769" duration="5852000" />
+      <workItem from="1657528534504" duration="1988000" />
+      <workItem from="1657604751823" duration="588000" />
+      <workItem from="1657791460178" duration="594000" />
+      <workItem from="1658127837925" duration="29624000" />
+      <workItem from="1658729637760" duration="4805000" />
+      <workItem from="1658885704591" duration="2403000" />
+      <workItem from="1659345712424" duration="1096000" />
+      <workItem from="1659603407665" duration="592000" />
+      <workItem from="1659752700337" duration="11374000" />
+      <workItem from="1659969903471" duration="1063000" />
+      <workItem from="1661243782114" duration="19119000" />
+      <workItem from="1661483376779" duration="593000" />
+      <workItem from="1661494300514" duration="1198000" />
+      <workItem from="1661591101260" duration="36714000" />
+      <workItem from="1662366959429" duration="55222000" />
+      <workItem from="1662973840960" duration="5824000" />
+      <workItem from="1663009696458" duration="802000" />
+      <workItem from="1663577449174" duration="12909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="515734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17252605" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32379714" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/classes/class_Helpers.php" />
+    <entry file="file://$PROJECT_DIR$/classes/ClientStore.class.php" />
+    <entry file="file://$PROJECT_DIR$/public/uploads/store_products620f3412440ec.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/uploads/store_products620f3412426b9.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/uploads/store_products/620fa7e0273c4.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/uploads/store_products/62193c3d7355a.jpg" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="668" column="9" selection-start-line="668" selection-start-column="9" selection-end-line="668" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GlobalApi.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29836">
+          <caret line="1757" column="10" selection-start-line="1757" selection-start-column="10" selection-end-line="1757" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Mail.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="783" column="140" selection-start-line="783" selection-start-column="140" selection-end-line="783" selection-end-column="140" />
+          <folding>
+            <element signature="n#__construct#0;n#SubMail#0;n#!!top" />
+            <element signature="n#paymentReceiptMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#subscriptionReceiptMail#0;n#SubMail#0;n#!!top" />
+            <element signature="e#2336#3367#0#PHP" />
+            <element signature="n#subscriptionDisabledMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#subscriptionPlanChangedMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#subscriptionCompletedMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#invoiceCreatedMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#cardExpiryMail#0;n#SubMail#0;n#!!top" />
+            <element signature="n#generatePaymentReceipt#0;n#SubMail#0;n#!!top" />
+            <element signature="n#get_store_details#0;n#SubMail#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub-hook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/uploads/cover_image/fgdfg87.png" />
+    <entry file="file://$PROJECT_DIR$/classes/class_SimpleDBClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="360" column="11" selection-start-line="360" selection-start-column="11" selection-end-line="360" selection-end-column="11" />
+          <folding>
+            <element signature="n#__construct#0;n#SimpleDBClass#0;n#!!top" />
+            <element signature="e#1093#1272#0#PHP" />
+            <element signature="n#Insert#0;n#SimpleDBClass#0;n#!!top" />
+            <element signature="n#Update#0;n#SimpleDBClass#0;n#!!top" />
+            <element signature="n#Delete#0;n#SimpleDBClass#0;n#!!top" />
+            <element signature="n#Qry#0;n#SimpleDBClass#0;n#!!top" />
+            <element signature="n#CleanHTMLData#0;n#SimpleDBClass#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-route-shoppers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="1227" column="89" selection-start-line="1227" selection-start-column="89" selection-end-line="1227" selection-end-column="89" />
+          <folding>
+            <element signature="e#517#539#0#PHP" expanded="true" />
+            <element signature="n#app_db#0;n#!!top" />
+            <element signature="n#getAuthorizationHeader#0;n#!!top" />
+            <element signature="n#getDevAccessKeyHeader#0;n#!!top" />
+            <element signature="n#getBearerToken#0;n#!!top" />
+            <element signature="n#getDeveloperKey#0;n#!!top" />
+            <element signature="n#clean#0;n#!!top" />
+            <element signature="n#send_account_activation_mail#0;n#!!top" />
+            <element signature="n#send_welcome_mail#0;n#!!top" />
+            <element signature="e#20041#20116#1#PHP" />
+            <element signature="e#20177#22664#1#PHP" />
+            <element signature="e#22716#25358#1#PHP" />
+            <element signature="e#25420#44415#1#PHP" />
+            <element signature="e#44476#46594#1#PHP" />
+            <element signature="e#46662#50975#1#PHP" />
+            <element signature="e#51051#53884#1#PHP" />
+            <element signature="e#53962#58468#1#PHP" />
+            <element signature="e#58531#60217#1#PHP" />
+            <element signature="e#60280#64425#1#PHP" />
+            <element signature="e#64493#65898#1#PHP" />
+            <element signature="e#65954#69742#1#PHP" />
+            <element signature="e#69804#71904#1#PHP" />
+            <element signature="e#71973#73396#1#PHP" />
+            <element signature="e#73465#75129#1#PHP" />
+            <element signature="e#75192#75957#1#PHP" />
+            <element signature="e#76024#78206#1#PHP" />
+            <element signature="e#78279#80231#1#PHP" />
+            <element signature="e#80310#82095#1#PHP" />
+            <element signature="e#82181#85154#1#PHP" />
+            <element signature="e#85221#87403#1#PHP" />
+            <element signature="e#87434#88839#1#PHP" />
+            <element signature="e#91184#92640#1#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="2228" column="3" lean-forward="true" selection-start-line="2228" selection-start-column="3" selection-end-line="2228" selection-end-column="3" />
+          <folding>
+            <element signature="n#app_db#0;n#!!top" />
+            <element signature="n#getAuthorizationHeader#0;n#!!top" />
+            <element signature="n#getDevAccessKeyHeader#0;n#!!top" />
+            <element signature="n#getBearerToken#0;n#!!top" />
+            <element signature="n#getDeveloperKey#0;n#!!top" />
+            <element signature="n#clean#0;n#!!top" />
+            <element signature="n#save_base64_image#0;n#!!top" />
+            <element signature="e#3417#3492#1#PHP" />
+            <element signature="e#3533#3933#1#PHP" />
+            <element signature="e#3980#4784#1#PHP" />
+            <element signature="e#4846#5836#1#PHP" />
+            <element signature="e#5908#6758#1#PHP" />
+            <element signature="e#6808#27400#1#PHP" />
+            <element signature="e#27453#48145#1#PHP" />
+            <element signature="e#48197#50303#1#PHP" />
+            <element signature="e#50353#52813#1#PHP" />
+            <element signature="e#52865#57904#1#PHP" />
+            <element signature="e#57953#60733#1#PHP" />
+            <element signature="e#60786#63178#1#PHP" />
+            <element signature="e#63233#78133#1#PHP" />
+            <element signature="e#78189#79844#1#PHP" />
+            <element signature="e#79895#81336#1#PHP" />
+            <element signature="e#81389#83038#1#PHP" />
+            <element signature="e#83097#84509#1#PHP" />
+            <element signature="e#84567#86651#1#PHP" />
+            <element signature="e#86714#88099#1#PHP" />
+            <element signature="e#88153#89620#1#PHP" />
+            <element signature="e#89678#91253#1#PHP" />
+            <element signature="e#91302#96067#1#PHP" />
+            <element signature="e#96117#102333#1#PHP" />
+            <element signature="e#102393#103880#1#PHP" />
+            <element signature="e#103946#105555#1#PHP" />
+            <element signature="e#105613#111028#1#PHP" />
+            <element signature="e#111079#112704#1#PHP" />
+            <element signature="e#112760#115689#1#PHP" />
+            <element signature="e#115750#117537#1#PHP" />
+            <element signature="e#117601#119291#1#PHP" />
+            <element signature="e#119337#120597#1#PHP" />
+            <element signature="e#120652#121468#1#PHP" />
+            <element signature="e#121530#126734#1#PHP" />
+            <element signature="e#126794#131738#1#PHP" />
+            <element signature="e#131804#135134#1#PHP" />
+            <element signature="e#135196#137272#1#PHP" />
+            <element signature="e#137336#144142#1#PHP" />
+            <element signature="e#144211#145769#1#PHP" />
+            <element signature="e#145849#147421#1#PHP" />
+            <element signature="e#147490#149062#1#PHP" />
+            <element signature="e#149130#150702#1#PHP" />
+            <element signature="e#144202#146437#1#PHP" />
+            <element signature="e#146498#149624#1#PHP" />
+            <element signature="e#149683#153759#1#PHP" />
+            <element signature="e#153832#155786#1#PHP" />
+            <element signature="e#155845#161715#1#PHP" />
+            <element signature="e#161774#167949#1#PHP" />
+            <element signature="e#168009#169937#1#PHP" />
+            <element signature="e#170006#171564#1#PHP" />
+            <element signature="e#171627#174868#1#PHP" />
+            <element signature="e#174941#177833#1#PHP" />
+            <element signature="e#177882#178743#1#PHP" />
+            <element signature="e#178798#182534#1#PHP" />
+            <element signature="e#182596#186383#1#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

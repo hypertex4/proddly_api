@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/mailjet/mailjet-apiv3-php" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/mpdf/mpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/php-http/message-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/classes/vendor/symfony/polyfill-mbstring" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

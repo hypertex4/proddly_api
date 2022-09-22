@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="ansible-galaxy">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="ansible-galaxy" />
+              <option name="relativePathToSchema" value="https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-galaxy.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="classes/composer.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>

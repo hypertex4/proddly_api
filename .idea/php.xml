@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/classes/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/classes/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/classes/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/classes/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/classes/vendor/composer" />
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/classes/vendor/mailjet/mailjet-apiv3-php" />
+      <path value="$PROJECT_DIR$/classes/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/classes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/classes/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/classes/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/classes/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/classes/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/classes/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/classes/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/classes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/classes/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/classes/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/classes/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/classes/vendor/mpdf/mpdf" />
+      <path value="$PROJECT_DIR$/classes/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/classes/vendor/myclabs/deep-copy" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/classes/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
